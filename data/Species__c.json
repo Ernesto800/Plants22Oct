@@ -1,0 +1,44 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef1"
+            },
+            "Descripcion__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel.",
+            "Ideal_Max_Temperature__c": 25,
+            "Image_URL__c": "https://ibizabotanicobiotecnologico.com/wp-content/uploads/2023/07/Aloe-Vera.jpg",
+            "Image__c": "<img src=\"https://ibizabotanicobiotecnologico.com/wp-content/uploads/2023/07/Aloe-Vera.jpg\" alt=\"Aloe Vera\" border=\"0\"/>",
+            "Location__c": "Outdoors",
+            "Name": "Aloe Vera",
+            "OwnerId": "005aj0000091b6nAAA",
+            "Pulverization__c": false,
+            "Type__c": "Ornamental"
+        },
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef2"
+            },
+            "Descripcion__c": "Olorosa y bonita planta trepadora",
+            "Image_URL__c": "https://www.plantasmallorca.com/wp-content/uploads/2021/10/jazmin-comunjmoriscoj-blancoj-de-verano-jasminum-officinale.jpg",
+            "Image__c": "<img src=\"https://www.plantasmallorca.com/wp-content/uploads/2021/10/jazmin-comunjmoriscoj-blancoj-de-verano-jasminum-officinale.jpg\" alt=\"Jazmín Común\" border=\"0\"/>",
+            "Light__c": "Half-Shade",
+            "Location__c": "Indoors;Outdoors",
+            "Name": "Jazmín Común",
+            "OwnerId": "005aj0000091b6nAAA",
+            "Propagation__c": "Cuttings;Layering",
+            "Pruning_Notes__c": "No podar, solo eliminar las hojas en mal estado",
+            "Pulverization__c": false,
+            "Recommended_fertilizer__c": "Orgánico a ppio de primavera y otoño. Una vez al mes para floración",
+            "Regions__c": "Europe;Asia",
+            "Summer_Ferlilization_Frecuency__c": "Monthly",
+            "Summer_Watering_Frecuency__c": "Twice per week",
+            "Temperature_Notes__c": "Resguardar raíces de las heladas",
+            "Type__c": "Edible",
+            "Watering_Notes__c": "No mojar las hojas!",
+            "Winter_Fertilization_Frecuency__c": "Not needed",
+            "Winter_Watering_Frecuency__c": "Weekly"
+        }
+    ]
+}

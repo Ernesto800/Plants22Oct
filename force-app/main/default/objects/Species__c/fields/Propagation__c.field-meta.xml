@@ -14,6 +14,16 @@
                 <default>false</default>
                 <label>Shoot</label>
             </value>
+            <value>
+                <fullName>Cuttings</fullName>
+                <default>false</default>
+                <label>Cuttings</label>
+            </value>
+            <value>
+                <fullName>Layering</fullName>
+                <default>false</default>
+                <label>Layering</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
     <visibleLines>4</visibleLines>

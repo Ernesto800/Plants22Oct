@@ -29,6 +29,11 @@
                 <default>false</default>
                 <label>Anualy</label>
             </value>
+            <value>
+                <fullName>Twice per week</fullName>
+                <default>false</default>
+                <label>Twice per week</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
